@@ -15,6 +15,9 @@ This mod removes all of the newer Nether content introduced in Minecraft Java Ed
 * **Nether Wart patches** generate naturally on Soul Sand, just like in older editions. **(Thanks to @Soupio777)**
 * **Ancient Debris and Netherite are absent**, restoring the classic Nether resource balance.
 
+> [!IMPORTANT]
+> This repository has been moved to Codeberg, and as such is not being updated on GitHub any longer.   
+> [View Repo](https://codeberg.org/Nostalgica-Reverie/Legacy-Nether).
 
 ---
 
